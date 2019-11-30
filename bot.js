@@ -11,60 +11,17 @@ const prefix = '-'
 
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'السلام عليكم') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** :wink: وعليكم السلام  :sparkling_heart:**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+    if (msg.content === 'باك') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+      msg.reply('** :wink: وِلِـكُمِـ ﻧَوِرُتْ   :sparkling_heart:**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
-
-
 
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === '-inv') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** اتمني تشترك في هاذي القناه https://www.youtube.com/channel/UCjDq70ERmtvSpfq2XJ0xijg?view_as=subscriber رابط اضافه البوت https://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot مع تحياتي @╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 **');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+      msg.reply('**https://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
-
-
-
-
-
-client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'كفو') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** كفوك طيب**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    }
-  });
-
-
-
-
-
-client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'هلا بوت') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** هلا كيفك**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    }
-  });
-
-
-
-
-client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'منشن لرامبل') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** تعال رامبل في احد يبيك @╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱#4254 **');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    }
-  });
-
-
-
-
-
-client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'جيت') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** نورت**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    }
-  });
-
-
 
 
 
