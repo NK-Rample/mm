@@ -9,14 +9,6 @@ const ms = require('ms');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,
 const prefix = '-'
 
 
-client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    if (msg.content === 'باك') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('** :wink: وِلِـكُمِـ ﻧَوِرُتْ   :sparkling_heart:**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-    }
-  });
-
-
-
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'السلام عليكم') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
