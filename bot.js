@@ -15,11 +15,17 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
     }
   });
 
+
+
+
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'السلام عليكم') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('** :wink: وعليكم السلام  :sparkling_heart:**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
+
+
+
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === '-inv') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
@@ -28,17 +34,26 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
   });
 
 
+
+
+
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'كفو') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('** كفوك طيب**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
 
+
+
+
+
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'هلا بوت') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('** هلا كيفك**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
+
+
 
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
@@ -48,11 +63,17 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
   });
 
 
+
+
+
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'جيت') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('** نورت**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
+
+
+
 
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
@@ -62,18 +83,25 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
   });
 
 
+
+
+
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'احبك') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('**لاتحتك يا اخوي لو سمحت**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
-  
+
+
+
 
   client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === 'احبك') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
       msg.reply('**حبك برص يا سافل**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
+
+
 
 
    client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
