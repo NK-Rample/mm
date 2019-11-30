@@ -19,7 +19,7 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
 
 client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     if (msg.content === '-inv') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
-      msg.reply('**https://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+      msg.reply('** https://discordapp.com/oauth2/authorize?client_id=631422214691880980&permissions=8&scope=bot **');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
     }
   });
 
@@ -31,7 +31,11 @@ client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫
     }
   });
 
-
+client.on('message', msg => {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+    if (msg.content === 'هلا شباب') {  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+      msg.reply('**منشن له لو مو موجود**');  //╲⎝⧹『,༺♫¶»N҉K-҉Ram҉ple҉«¶♫༻,』⧸⎠╱
+    }
+  });
 
 
 
